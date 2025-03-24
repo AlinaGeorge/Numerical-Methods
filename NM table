@@ -1,0 +1,22 @@
+\renewcommand{\arraystretch}{1.5} % Increases row height for the whole table
+
+\begin{tabular}{|c|p{10cm}|c|c|}
+\hline
+\large\textbf{\rule{0pt}{1.2cm} Sl.No} & \large\textbf{\rule{0pt}{1.2cm} Title} & \large\textbf{\rule{0pt}{1.2cm} Page no} \\ \hline
+1 & Bisection Method & 2 \\ \hline
+2 & False Position Method & 4 \\ \hline
+3 & Newton Raphson's Method&  6 \\ \hline
+4 & Gauss Elimination Method by Pivoting &   8 \\ \hline
+5 & Gauss Jordan Method &  10 \\ \hline
+6 & Gauss Seidel Method &   12 \\ \hline
+7 & Forward Divided Difference Method &   15 \\ \hline
+8 & Backward Divided Difference Method & 18 \\ \hline
+9 & Central Divided Difference Method &  21 \\ \hline
+10 & CDD for Second Derivative & 26 \\ \hline
+11 & Newton Forward Interpolation Method  &  29 \\ \hline
+12 & Lagrange Interpolation Method & 32 \\ \hline
+13 & Simpsons 1/3rd Rule &  37 \\ \hline
+14 & Trapezoidal Rule for Definite Integral &  40 \\ \hline
+15 & Euler Method for Ordinary Differential Equations &  43 \\ \hline
+
+\end{tabular}
