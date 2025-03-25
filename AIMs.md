@@ -1,7 +1,7 @@
 Here are the aims rewritten to start with "To implement a program to...":
 
 1. **Bisection Method**:  
-   To implement a program to find the root of a given continuous function by repeatedly halving the interval and selecting the subinterval that contains the root. This method is based on the Intermediate Value Theorem.
+   To implement a program to find the root of a given continuous function by repeatedly halving the interval and selecting the subinterval that contains the root.
 
 2. **False Position Method**:  
    To implement a program to determine the root of a given function by iteratively narrowing down the search interval using linear interpolation. This method improves upon the bisection method by choosing the point of intersection rather than the midpoint.
